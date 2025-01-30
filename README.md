@@ -1,7 +1,5 @@
 # Pomobar
 
-![Pomobar Logo](./media/logo.png)
-
 Pomobar is a sleek and customizable Pomodoro timer built with Python and PyQt5. Designed to help you manage your time effectively, Pomobar provides a visual progress bar that keeps you on track during your work and break sessions.
 
 
